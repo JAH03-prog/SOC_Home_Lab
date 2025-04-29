@@ -91,7 +91,7 @@ Key Observations:
 Captured large numbers of TCP Reset (RST) packets indicating abnormal session behavior during exploitation and brute-force phases.
 
 Captured Evidence:
-- ![Suspicious TCP RST Packets](screenshots/extra_suspicious_TCP_packets_meta_exploit.png)
+- ![Suspicious TCP RST Packets](extra_suspcious_TCP_packets_meta_exploit.png)
 
 ---
 
